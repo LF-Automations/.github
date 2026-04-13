@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="logotipo.png" alt="Logo da Organização" width="200" />
+</p>
 # LF-Automations 
 
 ## Sobre Nós
