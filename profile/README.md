@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logotipo.png" alt="Logo da Organização" width="200" />
+  <img src="LF_.png" alt="Logo da Organização" width="200" />
 </p>
 # LF-Automations 
 
